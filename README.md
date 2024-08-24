@@ -1,8 +1,10 @@
-# React + Vite
+# Rockstar-Developer Exercise
+- JS - Node, NPM
+- React - project with Vite
+- React - Components, Props, States
+- React - Forms
+- React - Context Provider
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## For this learner
+1. We need to know exactly about JavaScript.
