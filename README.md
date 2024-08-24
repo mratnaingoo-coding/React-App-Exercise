@@ -1,4 +1,4 @@
-# Rockstar-Developer Exercise
+# Rockstar-Developer Exercise <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="100" height="100" />
 - JS - Node, NPM
 - React - project with Vite
 - React - Components, Props, States
